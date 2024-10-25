@@ -16,7 +16,6 @@
 - **Real-Time Communication**: Experience seamless, real-time message exchange powered by **Socket.IO**.
 - **MongoDB Integration**: Securely store and retrieve chat data with **MongoDB**.
 - **Responsive UI**: Enjoy a consistent experience across mobile and desktop devices.
-- **Light/Dark Theme**: Switch between themes for a comfortable user experience.
 
 ---
 
